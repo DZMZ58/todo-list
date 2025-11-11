@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "todolist",
+  "description": "Simple Todo List WeChat Mini Program",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "libVersion": "2.31.0"
+}
